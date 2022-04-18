@@ -4,4 +4,4 @@
 ![ReGEN Cover Image](https://raw.githubusercontent.com/robgon-art/ReGEN/main/cover_med.jpg)</br>
 Photo by [Tech Daily](https://unsplash.com/photos/PGuCnUzsRSM) on [Unsplash](https://unsplash.com/)</br>
 
-**By Robert. A Gonsalves**</br>
+**by Robert. A Gonsalves**</br>
