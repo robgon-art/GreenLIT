@@ -5,4 +5,4 @@
 
 Photo by [Tech Daily](https://unsplash.com/photos/PGuCnUzsRSM) on [Unsplash](https://unsplash.com/)</br>
 
-**by Robert. A Gonsalves**</br>
+**By Robert. A Gonsalves**</br>
