@@ -13,8 +13,7 @@ The source code and generated images are released under the [CC BY-SA license](h
 ![CC BYC-SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
 ## Google Colabs
-* GreenLIT Trainer
-* GreenLIT Generator
+* [GreenLIT Generator](https://colab.research.google.com/github/robgon-art/GreenLIT/blob/main/GreenLIT.ipynb)
 
 ## Acknowledgements
 - GPT-J, Mesh-Transformer-JAX: Model-Parallel Implementation of Transformer Language Model with JAX (2021)
