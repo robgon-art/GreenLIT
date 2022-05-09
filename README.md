@@ -1,5 +1,5 @@
-# **ReGEN - Using GPT-J to Create Screenplays with Multi-Task Learning**
-## How to fine-tune ML models with both old and new material to help generate fresh content
+# **GreenLIT: Using GPT-J with Multi-Task Learning to Create New Screenplays**
+## How to fine-tune an ML model to create TV shows and movies with new titles, plot summaries, and scripts
 
 ![ReGEN Cover Image](https://raw.githubusercontent.com/robgon-art/ReGEN/main/cover_med.jpg)
 
