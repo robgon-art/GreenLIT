@@ -7,7 +7,7 @@ Photo by [Tech Daily](https://unsplash.com/photos/PGuCnUzsRSM) on [Unsplash](htt
 
 **By Robert. A Gonsalves**</br>
 
-You can see my article on Medium.
+You can see my article on [Medium](https://towardsdatascience.com/greenlit-using-gpt-j-with-multi-task-learning-to-create-new-screenplays-54a2d04f761c#c07d-fe51a662351d).
 
 The source code and generated images are released under the [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/).</br>
 ![CC BYC-SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
